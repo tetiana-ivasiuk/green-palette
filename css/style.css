@@ -24,7 +24,6 @@ ul {
 
 body{
     font-family: "Inter", serif;
-    font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
     color: var(--main-color);
@@ -378,16 +377,7 @@ body{
     font-weight: 600;
     position: relative;
 }
-/* .steps__item:before{
-    position: absolute;
-    content: '';
-    background-repeat: no-repeat;
-    top: 50px;
-    left: 8px;
-    height: 185px;
-    width: 139px;
-    -webkit-text-stroke: 1px rgb(109, 151, 115);
-} */
+
 .steps__item span{
     position: absolute;
     top: 16%;
